@@ -1,0 +1,5 @@
+{
+  "name": "brainstorming-mod",
+  "owner": { "name": "sebyskunk" },
+  "plugins": [{ "name": "brainstorming", "source": "./" }]
+}

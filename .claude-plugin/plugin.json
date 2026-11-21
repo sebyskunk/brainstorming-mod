@@ -1,0 +1,8 @@
+{
+  "name": "brainstorming",
+  "version": "0.1.0",
+  "description": "Switch Brainstorming: il prossimo prompt viene riformulato in modo strutturato invece di essere eseguito",
+  "author": { "name": "sebyskunk" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
